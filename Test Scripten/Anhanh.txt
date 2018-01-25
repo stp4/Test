@@ -1,0 +1,67 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ANOVA Analysis of Variance - Varianzanalyse
+
+
+Deskriptive Analyse
+Schreibweise bei ordinalen oder metrischen Skalenniveau M(SD) oder Median[unteres Quartil, oberes Quartil], bei Faktoren Prozent(Anzahl)
+
+Abk�rzungen:
+M   Mittelwert 
+SD  Standardabweichung 
+N, n    Anzahl (aller) erhobenen Messwerte 
+NA, n.a.    Fehlender Wert nicht anwendbar
+%   Prozent, v. H.
+F   Wilcoxon or Kruskal-Wallis (approximated by using the t or F distributions) Wilcoxon-Mann-Whitney-Test ist identisch mit dem Mann-Whitney-U-Test
+X   Pearson chi-square test 
+p   p-Wert, Probability-Wert, Wahrscheinlichkeit der Null-Hypothese
+df Freiheitsgrade (Anzahl unabh�ngiger Informationen, die zur Sch�tzung  herangezogen weird)
+r   Korrelationskoeffizient (Mass f�r den linearen Zusammenhang)
+
+Regressionsanalyse 
+Ist eine statistische Analyse, die mehrere Ergebnisvariablen gleichzeitig ber�cksichtigt.
+Abk�rzungen:
+estimate Erwartungswert der Koeffizienten
+std. error Standardfehler 
+t   t-value, Wert der Teststatistik H0: beta-Gewicht = 0
+R2  Bestimmtheitsmass
+
+ CI, 95% CI Konfidenzintervalle
+
+ fit Effekt Die Änderung der Ergebnisvariablen, y, aufgrund von Veränderungen
+eines Einsatzfaktors, x, in einem faktoriellen Versuch.
+ T T-Verteilung
+ t-Test Ein statistischer Test für einen oder mehrere Mittelwerte.
+ Z Anzahl Standardabweichungen entfernt vom Mittelwert, Skala Standard
+Normalverteilung
+ 
+ 
+ 
+
+ 
+
+ 
+
+Residuen (Error) Die zufällige Variation in den Ergebnissen, die nicht auf die
+unabhängigen Variablen zurückzuführen ist („Error“ bedeutet Störungen)
+
+ 
+ Statistisch signifikant Ein Ergebnis, das dazu führt, die Null-Hypothese zu verwerfen.
+ 
+  AIC (Aikaikes Informationskriterium) Je kleiner der Wert des AIC – d.h. je größer der Wert der log-
+Likelihoodfunktion und je kleiner die Anzahl an Parametern – desto besser ist das Modell.
+
+Odds-Ratio Chancenverhältnis • OR = 1: Es besteht kein Unterschied zwischen den beiden Gruppen (Chancengleichheit)
+• OR > 1: Die Chance auf ein suizidales Ereignis ist für die Expositionsgruppe größer
+• OR < 1: Die Chance auf ein suizidales Ereignis ist für die Expositionsgruppe kleiner
+
+
+
+
+L. Fahrmeir, T. Kneib, S. Lang: Regression – Modelle, Methoden, Anwendungen, Springer
+Verlag, 2007

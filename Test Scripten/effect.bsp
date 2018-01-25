@@ -1,0 +1,29 @@
+graphics.off()
+library(effects)
+
+library(sjPlot)
+
+data(Cowles)
+
+head(Cowles)
+ 
+
+mod.cowles <- glm(volunteer ~ sex*extraversion + neuroticism*extraversion,
+                  data=Cowles, family=binomial)
+
+mod.cowles
+eff.cowles <- allEffects(mod.cowles )
+windows(8,8)
+plot(eff.cowles, multiline=T)
+str(mod.cowles)
+# for(i in attr(mod.cowles$terms,"term.labels")){
+#   print(i)
+#   windows(3,3)
+#  print( plot(effect(i, mod.cowles)) ) 
+# }
+
+windows(3,3)
+plot(effect("sex:extraversion", mod.cowles, 
+            xlevels=list(extraversion=seq(0, 24, 12))), main="", multiline=T
+  ,x.var="sex"   )
+

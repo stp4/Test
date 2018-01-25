@@ -1,2 +1,2 @@
 # Test
-Hallo Welt
+Hier sind verschiedene Code-Snipsl versammelt

@@ -1,0 +1,18 @@
+"","name","plot_name","group","comment","type","levels","labels"
+"id","id","identifier","demographic",NA,NA,NA,NA
+"sex","sex","Geschlecht","demographic",NA,NA,NA,NA
+"age","age","Alter","demographic",NA,NA,NA,NA
+"age2","age2","Altersgruppen","demographic",NA,NA,NA,NA
+"nat","nat","Nationalität","demographic",NA,NA,NA,NA
+"nat2","nat2","Nationalität","demographic",NA,NA,NA,NA
+"month","month","Monat","month",NA,NA,NA,NA
+"primäre.Aufnahme.Ort","primäre.Aufnahme.Ort","primäre Aufnahme Ort","demographic",NA,NA,NA,NA
+"primäre.Aufnahme.Ort2","primäre.Aufnahme.Ort2","primäre Aufnahme Ort","demographic",NA,NA,NA,NA
+"Luxation","Luxation","Luxation","DAT",NA,NA,NA,NA
+"Avulsion","Avulsion","Avulsion","DAT",NA,NA,NA,NA
+"Kronenfraktur","Kronenfraktur","Kronenfraktur","DAT",NA,NA,NA,NA
+"Kronenwurzelfraktur","Kronenwurzelfraktur","Kronenwurzelfraktur","DAT",NA,NA,NA,NA
+"Wurzelfraktur","Wurzelfraktur","Wurzelfraktur","DAT",NA,NA,NA,NA
+"Weichteilverletzungen","Weichteilverletzungen","Weichteilverletzungen","CMF",NA,NA,NA,NA
+"Unfallursache2","Unfallursache2","Unfallursache","Unfallursache",NA,NA,NA,NA
+"Unfallursache","Unfallursache","Unfallursache","Unfallursache",NA,NA,NA,NA
